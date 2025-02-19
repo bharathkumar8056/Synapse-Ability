@@ -53,7 +53,7 @@ export function About() {
             <div className="w-32 h-32 bg-gray-200 rounded-full mb-4 overflow-hidden">
               <img src="https://images.unsplash.com/photo-1484807352052-23338990c6c6?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D?auto=format&fit=crop&w=300&q=80" alt="bk" className="w-full h-full object-cover"/>
             </div>
-            <h4 className={`text-xl font-semibold ${darkMode ? 'text-white' : 'text-gray-900'}`}>Bharath Kumar K</h4>
+            <h4 className={`text-xl font-semibold ${darkMode ? 'text-white' : 'text-gray-900'}`}>Pranav V</h4>
             <p className={`${darkMode ? 'text-gray-300' : 'text-gray-600'} mb-4`}>Founder & Lead Developer</p>
             
             <div className="flex gap-4 mb-6">
@@ -81,7 +81,7 @@ export function About() {
             </div>
 
             <p className={`text-center max-w-2xl ${darkMode ? 'text-gray-300' : 'text-gray-600'}`}>
-               As a Student and freelancer , Bharath Kumar is passionate about
+               As a Student and freelancer , Pranav is passionate about
               creating innovative solutions that make learning more engaging and effective. He founded
               BKB Incorporation with the vision of transforming how people learn and develop essential skills.
               Although he is passionate in providing quality outputs with customer satisfaction altogether in freelancing.
